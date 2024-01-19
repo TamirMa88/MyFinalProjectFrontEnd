@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "סלט",
+    "price": 10.99,
+    "imgUrl": "/imgs/salad.jpg"
+  },
+  {
+    "id": 2,
+    "name": "טוסט",
+    "price": 1199,
+    "imgUrl": "/imgs/tost.jpg"
+  },
+  {
+    "id": 3,
+    "name": "בננוס",
+    "price": 1.05,
+    "imgUrl": "/imgs/banana.jpg"
+  },
+  {
+    "id": 4,
+    "name": "פיצה",
+    "price": 14000,
+    "imgUrl": "/imgs/pizza.jpg"
+  }
+]

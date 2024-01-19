@@ -1,0 +1,77 @@
+/* Home.css */
+
+.home-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .store-name {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .tagline {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .search-bar {
+    margin-top: 20px;
+  }
+  
+  input {
+    padding: 8px;
+    width: 200px;
+  }
+  
+  button {
+    padding: 8px;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .contact-info {
+    margin-top: 20px;
+  }
+  
+  .phone-number {
+    font-weight: bold;
+  }
+  
+  .employee-name {
+    margin-top: 20px;
+    font-style: italic;
+    color: #888;
+  }
+  
+.search-frame {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-top: 20px;
+  }
+  
+  .search-bar {
+    display: flex;
+    gap: 10px;
+  }
+  
+  input {
+    flex: 1;
+    padding: 8px;
+  }
+  
+  button {
+    padding: 8px;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .search-results {
+    margin-top: 15px;
+  }
+  

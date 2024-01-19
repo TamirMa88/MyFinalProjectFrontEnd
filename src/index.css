@@ -1,0 +1,37 @@
+
+
+.flex-col {
+    display:flex;
+    flex-direction: column;
+}
+
+.row-gap {
+    row-gap: .5rem;
+}
+
+.bg-red {
+    background-color: #bd3333;
+    border:none;
+}
+
+.bg-green {
+    background-color: #33bd83;
+    border:none;
+}
+
+.search-container {
+    display: flex;
+    background-color: white;
+    border:1px solid lightgray;
+    align-items: center;
+    max-width: 300px;
+    margin-block: .5rem;
+    
+}
+.search-container .search-icon {
+    padding-inline: .5rem;
+}
+.search-container input{ 
+    border:none;
+    outline:none;
+}
